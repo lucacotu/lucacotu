@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luca Cotugno</h1>
 <h3 align="center">Computer Science graduate (MSc, University of Bologna, 110/110 with honors) passionate about machine learning, data science and AI applied to real-world problems. 
-  
+
+
+
 🔬 My master's thesis explored **tabular foundation models for clinical survival analysis**: using TabPFN and TabICL as feature extractors, combined with classical and neural survival models (Cox, Random Survival Forest, DeepSurv), with robustness and SHAP interpretability analyses.
 </h3>
 
